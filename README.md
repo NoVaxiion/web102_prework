@@ -23,7 +23,9 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='[https://imgur.com/YvoWTxN](https://imgur.com/YvoWTxN)' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+## https://imgur.com/YvoWTxN
+
+<img src='https://imgur.com/YvoWTxN' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 
