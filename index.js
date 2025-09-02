@@ -160,7 +160,7 @@ const totalGames = GAMES_JSON.length;
 // create a string that explains the number of unfunded games using the ternary operator
 const descriptionText = `A total of ${totalRaisedForDescription.toLocaleString()} has been raised for ${totalGames} games. Currently, ${numUnfundedGames} ${
   numUnfundedGames === 1 ? "game remains" : "games remain"
-} unfunded. We can do it! 💪`;
+} unfunded.`;
 
 // create a new DOM element containing the template string and append it to the description container
 const descriptionParagraph = document.createElement("p");
