@@ -4,7 +4,7 @@ Submitted by: **Kenneth Maeda**
 
 **Sea Monster Crowfunding** is a website for the company Sea Monster Crowdfunding that displays information about the games they have funded.
 
-Time spent: **3** hours spent in total
+Time spent: **4** hours spent in total
 
 ## Required Features
 
@@ -44,6 +44,10 @@ GIF created with imgur
 
 Describe any challenges encountered while building the app.
 
+- Keeping track of the number of games (11 total) and their properties can also be confusing when testing loops as they are seperate files.
+- Remembering to wrap strings in backticks (``) instead of quotes so ${game.property} works.
+- Forgetting to clear out gamesContainer with deleteChildElements() before repopulating → causes duplicate game cards.
+  
 ## License
 
     Copyright [yyyy] [name of copyright owner]
