@@ -23,10 +23,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-## https://imgur.com/YvoWTxN
 
 
-https://github.com/user-attachments/assets/a60a4bf7-3e89-4792-978c-30851e6419fb
+https://github.com/user-attachments/assets/b4a0f6e8-956c-403b-babd-a8a7e798d433
+
 
 
 
