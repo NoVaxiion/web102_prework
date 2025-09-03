@@ -25,7 +25,11 @@ Here's a walkthrough of implemented features:
 
 ## https://imgur.com/YvoWTxN
 
-![](video.gif)
+
+https://github.com/user-attachments/assets/a60a4bf7-3e89-4792-978c-30851e6419fb
+
+
+
 
 <!-- Replace this with whatever GIF tool you used! -->
 
